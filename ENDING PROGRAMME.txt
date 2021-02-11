@@ -1,0 +1,11 @@
+default:
+cout<<"Your choie is wrong."<<endl;
+cout<<"Try again?? Yes(Y/y) or No(N/n)??"<<endl;
+cin b>>;
+if(b=='y'||b=='Y')
+goto start;
+else
+cout<<"Thank you! Periodic Table terminating..."<<endl;
+}
+getch();
+}

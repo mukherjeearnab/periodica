@@ -1,0 +1,12 @@
+case XX:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+break:

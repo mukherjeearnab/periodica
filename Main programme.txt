@@ -1,0 +1,1727 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+int a;
+char b;
+cout<<"Enter the ATOMIC NUMBER of the ELEMENT"<<endl;
+cin>>a;
+switch(a)
+{
+case 1:
+cout<<"The element is HYDROGEN"<<endl;
+cout<<"Symbol= H"<<endl;
+cout<<"Atomic Mass= 1.0"<<endl;
+cout<<"No. of Protons= 1"<<endl;
+cout<<"No. of Electrons= 1"<<endl;
+cout<<"No. of Neutrons= 0"<<endl;
+cout<<"Valency= 1"<<endl;
+cout<<"Physical state in Room Temperature= Gas"<<endl;
+cout<<"Classified as Non-metals"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block S"<<endl;
+break:
+case 2:
+cout<<"The element is= HELIUM"<<endl;
+cout<<"Symbol= He"<<endl;
+cout<<"Atomic Mass= 4.0"<<endl;
+cout<<"No. of Protons= 2"<<endl;
+cout<<"No. of Electrons= 2"<<endl;
+cout<<"No. of Neutrons= 2"<<endl;
+cout<<"Valency= 0"<<endl;
+cout<<"Physical state in Room Temperature= Gas"<<endl;
+cout<<"Classified as Non-metals (Noble Gas)"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block P"<<endl;
+break:
+case 3:
+cout<<"The element is= LITHIUM"<<endl;
+cout<<"Symbol= Li"<<endl;
+cout<<"Atomic Mass= 6.9"<<endl;
+cout<<"No. of Protons= 3"<<endl;
+cout<<"No. of Electrons= 3"<<endl;
+cout<<"No. of Neutrons= 4"<<endl;
+cout<<"Valency= 1"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Metals (Alkali Metals) "<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in block S"<<endl;
+break:
+case 4:
+cout<<"The element is= BERYLIUM"<<endl;
+cout<<"Symbol= Be"<<endl;
+cout<<"Atomic Mass= 9.0"<<endl;
+cout<<"No. of Protons= 4"<<endl;
+cout<<"No. of Electrons= 4"<<endl;
+cout<<"No. of Neutrons= 5"<<endl;
+cout<<"Valency= 2"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Metals (Alkali earth metals)"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block D"<<endl;
+break:
+case 5:
+cout<<"The element is= BORON"<<endl;
+cout<<"Symbol= B"<<endl;
+cout<<"Atomic Mass= 19"<<endl;
+cout<<"No. of Protons= 5"<<endl;
+cout<<"No. of Electrons= 5"<<endl;
+cout<<"No. of Neutrons= 14"<<endl;
+cout<<"Valency= 3"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Non-metals "<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block P"<<endl;
+break:
+case 6:
+cout<<"The element is= CARBON"<<endl;
+cout<<"Symbol= C"<<endl;
+cout<<"Atomic Mass= 12"<<endl;
+cout<<"No. of Protons= 6"<<endl;
+cout<<"No. of Electrons= 6"<<endl;
+cout<<"No. of Neutrons= 6"<<endl;
+cout<<"Valency= 4"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Non-metals "<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block P"<<endl;
+break:
+case 7:
+cout<<"The element is= NITROGEN"<<endl;
+cout<<"Symbol= N"<<endl;
+cout<<"Atomic Mass= 14"<<endl;
+cout<<"No. of Protons= 7"<<endl;
+cout<<"No. of Electrons= 7"<<endl;
+cout<<"No. of Neutrons= 7"<<endl;
+cout<<"Valency= 3"<<endl;
+cout<<"Physical state in Room Temperature= Gas"<<endl;
+cout<<"Classified as Non-metals"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block P"<<endl;
+break:
+case 8:
+cout<<"The element is= OXYGEN"<<endl;
+cout<<"Symbol= O"<<endl;
+cout<<"Atomic Mass= 16"<<endl;
+cout<<"No. of Protons= 8"<<endl;
+cout<<"No. of Electrons= 8"<<endl;
+cout<<"No. of Neutrons= 8"<<endl;
+cout<<"Valency= 2"<<endl;
+cout<<"Physical state in Room Temperature= Gas"<<endl;
+cout<<"Classified as Non-metals"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block P"<<endl;
+break:
+case 9:
+cout<<"The element is= FLOURINE"<<endl;
+cout<<"Symbol= F"<<endl;
+cout<<"Atomic Mass= 19"<<endl;
+cout<<"No. of Protons= 9"<<endl;
+cout<<"No. of Electrons= 9"<<endl;
+cout<<"No. of Neutrons= 10"<<endl;
+cout<<"Valency= 1"<<endl;
+cout<<"Physical state in Room Temperature= Gas"<<endl;
+cout<<"Classified as Non-metals"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block P"<<endl;
+break:
+case 10:
+cout<<"The element is= NEON"<<endl;
+cout<<"Symbol=Ne"<<endl;
+cout<<"Atomic Mass= 20"<<endl;
+cout<<"No. of Protons= 10"<<endl;
+cout<<"No. of Electrons= 10"<<endl;
+cout<<"No. of Neutrons= 10"<<endl;
+cout<<"Valency= 0"<<endl;
+cout<<"Physical state in Room Temperature= Gas"<<endl;
+cout<<"Classified as Non-metals (Noble gas)"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block P"<<endl;
+break:
+case 11:
+cout<<"The element is= SODIUM"<<endl;
+cout<<"Symbol= Na"<<endl;
+cout<<"Atomic Mass= 23"<<endl;
+cout<<"No. of Protons= 11"<<endl;
+cout<<"No. of Electrons= 11"<<endl;
+cout<<"No. of Neutrons= 12"<<endl;
+cout<<"Valency= 1"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Metals (Alkali metals)"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block S"<<endl;
+break:
+case 12:
+cout<<"The element is= MAGNESIUM"<<endl;
+cout<<"Symbol= Mg"<<endl;
+cout<<"Atomic Mass= 24"<<endl;
+cout<<"No. of Protons= 12"<<endl;
+cout<<"No. of Electrons= 12"<<endl;
+cout<<"No. of Neutrons= 12"<<endl;
+cout<<"Valency= 2"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Metals (Alkali earth metals)"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block S"<<endl;
+break:
+case 13:
+cout<<"The element is= ALUMINIUM"<<endl;
+cout<<"Symbol= Al"<<endl;
+cout<<"Atomic Mass= 27"<<endl;
+cout<<"No. of Protons= 13"<<endl;
+cout<<"No. of Electrons= 13"<<endl;
+cout<<"No. of Neutrons= 14"<<endl;
+cout<<"Valency= 3"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Metals (Poor metals)"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block P"<<endl;
+break:
+case 14:
+cout<<"The element is= SILICON"<<endl;
+cout<<"Symbol= Si"<<endl;
+cout<<"Atomic Mass= 28"<<endl;
+cout<<"No. of Protons= 14"<<endl;
+cout<<"No. of Electrons= 14"<<endl;
+cout<<"No. of Neutrons= 14"<<endl;
+cout<<"Valency= 4"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Non-metals"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block P"<<endl;
+break:
+case 15:
+cout<<"The element is= PHOSPHOROUS"<<endl;
+cout<<"Symbol= P"<<endl;
+cout<<"Atomic Mass= 31"<<endl;
+cout<<"No. of Protons= 15"<<endl;
+cout<<"No. of Electrons= 15"<<endl;
+cout<<"No. of Neutrons= 16"<<endl;
+cout<<"Valency= 3"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Non-metals"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block P"<<endl;
+break:
+case 16:
+cout<<"The element is= SULPHUR"<<endl;
+cout<<"Symbol= S"<<endl;
+cout<<"Atomic Mass= 32"<<endl;
+cout<<"No. of Protons= 16"<<endl;
+cout<<"No. of Electrons= 16"<<endl;
+cout<<"No. of Neutrons= 16"<<endl;
+cout<<"Valency= 2"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Non-metals"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block P"<<endl;
+break:
+case 17:
+cout<<"The element is= CHLORINE"<<endl;
+cout<<"Symbol= Cl"<<endl;
+cout<<"Atomic Mass= 35"<<endl;
+cout<<"No. of Protons= 17"<<endl;
+cout<<"No. of Electrons= 17"<<endl;
+cout<<"No. of Neutrons= 18"<<endl;
+cout<<"Valency= 1"<<endl;
+cout<<"Physical state in Room Temperature= Gas"<<endl;
+cout<<"Classified as Non-metals"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block P"<<endl;
+break:
+case 18:
+cout<<"The element is= ARGON"<<endl;
+cout<<"Symbol= Ar"<<endl;
+cout<<"Atomic Mass= 40"<<endl;
+cout<<"No. of Protons= 18"<<endl;
+cout<<"No. of Electrons= 18"<<endl;
+cout<<"No. of Neutrons= 20"<<endl;
+cout<<"Valency= 0"<<endl;
+cout<<"Physical state in Room Temperature= Gas"<<endl;
+cout<<"Classified as Non-metals (Noble gas)"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block P"<<endl;
+break:
+case 19:
+cout<<"The element is= POTTASIUM"<<endl;
+cout<<"Symbol= K"<<endl;
+cout<<"Atomic Mass= 39"<<endl;
+cout<<"No. of Protons= 19"<<endl;
+cout<<"No. of Electrons= 19"<<endl;
+cout<<"No. of Neutrons= 20"<<endl;
+cout<<"Valency= 1"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Metals (Alkali metals)"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block S"<<endl;
+break:
+case 20:
+cout<<"The element is= CALCIUM"<<endl;
+cout<<"Symbol= Ca"<<endl;
+cout<<"Atomic Mass= 40"<<endl;
+cout<<"No. of Protons= 20"<<endl;
+cout<<"No. of Electrons= 20"<<endl;
+cout<<"No. of Neutrons= 20"<<endl;
+cout<<"Valency= 2"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Metals (Alkali earth metals)"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block S"<<endl;
+break:
+case 21:
+cout<<"The element is= SCANDIUM"<<endl;
+cout<<"Symbol= Sc"<<endl;
+cout<<"Atomic Mass= 45"<<endl;
+cout<<"No. of Protons= 21"<<endl;
+cout<<"No. of Electrons= 21"<<endl;
+cout<<"No. of Neutrons= 24"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Metals (Transition metals)"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block D"<<endl;
+break:
+case 22:
+cout<<"The element is= TITANIUM"<<endl;
+cout<<"Symbol= Ti"<<endl;
+cout<<"Atomic Mass= 48"<<endl;
+cout<<"No. of Protons= 22"<<endl;
+cout<<"No. of Electrons= 22"<<endl;
+cout<<"No. of Neutrons= 22"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Metals (Transition metals)"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block D"<<endl;
+break:
+case 23:
+cout<<"The element is= VANADIUM"<<endl;
+cout<<"Symbol= V"<<endl;
+cout<<"Atomic Mass= 51"<<endl;
+cout<<"No. of Protons= 23"<<endl;
+cout<<"No. of Electrons= 23"<<endl;
+cout<<"No. of Neutrons= 23"<<endl;
+cout<<"Valency= 28"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Metals (Transition metals)"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block D"<<endl;
+break:
+case 24:
+cout<<"The element is= CHROMIUM"<<endl;
+cout<<"Symbol= Cr"<<endl;
+cout<<"Atomic Mass= 52"<<endl;
+cout<<"No. of Protons= 24"<<endl;
+cout<<"No. of Electrons= 24"<<endl;
+cout<<"No. of Neutrons= 28"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Metals (Transition metals)"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block D"<<endl;
+break:
+case 25:
+cout<<"The element is = MANGANESE"<<endl;
+cout<<"Symbol= Mn"<<endl;
+cout<<"Atomic Mass= 55"<<endl;
+cout<<"No. of Protons= 25"<<endl;
+cout<<"No. of Electrons= 25"<<endl;
+cout<<"No. of Neutrons= 30"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Metals (Transition metals)"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block D"<<endl;
+break:
+case 26:
+cout<<"The element is= IRON(FEROUS)"<<endl;
+cout<<"Symbol= Fe"<<endl;
+cout<<"Atomic Mass= 56"<<endl;
+cout<<"No. of Protons= 26"<<endl;
+cout<<"No. of Electrons= 26"<<endl;
+cout<<"No. of Neutrons= 30"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Metals (Transition metals)"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block D"<<endl;
+break:
+case 27:
+cout<<"The element is= COBALT"<<endl;
+cout<<"Symbol= Co"<<endl;
+cout<<"Atomic Mass= 59"<<endl;
+cout<<"No. of Protons= 27"<<endl;
+cout<<"No. of Electrons= 27"<<endl;
+cout<<"No. of Neutrons= 32"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Metals (Transition metals)"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block D"<<endl;
+break:
+case 28:
+cout<<"The element is= NICKEL"<<endl;
+cout<<"Symbol= Ni"<<endl;
+cout<<"Atomic Mass= 59"<<endl;
+cout<<"No. of Protons= 28"<<endl;
+cout<<"No. of Electrons= 28"<<endl;
+cout<<"No. of Neutrons= 31"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Metals (Transition metals)"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block D"<<endl;
+break:
+case 29:
+cout<<"The element is= COPPER"<<endl;
+cout<<"Symbol= Cu"<<endl;
+cout<<"Atomic Mass= 63"<<endl;
+cout<<"No. of Protons= 29"<<endl;
+cout<<"No. of Electrons= 29"<<endl;
+cout<<"No. of Neutrons= 34"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Metals (Transition metals )"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block D"<<endl;
+break:
+case 30:
+cout<<"The element is= ZINC"<<endl;
+cout<<"Symbol= Zn"<<endl;
+cout<<"Atomic Mass= 65"<<endl;
+cout<<"No. of Protons= 30"<<endl;
+cout<<"No. of Electrons= 30"<<endl;
+cout<<"No. of Neutrons= 35"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Metals (Transition metals)"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block D"<<endl;
+break:
+case 31:
+cout<<"The element is= GALLIUM"<<endl;
+cout<<"Symbol= Ga"<<endl;
+cout<<"Atomic Mass= 70"<<endl;
+cout<<"No. of Protons= 31"<<endl;
+cout<<"No. of Electrons= 31"<<endl;
+cout<<"No. of Neutrons= 39"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Metals (Transition metals)"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block D"<<endl;
+break:
+case 32:
+cout<<"The element is= GERNAMIUM"<<endl;
+cout<<"Symbol= Ge"<<endl;
+cout<<"Atomic Mass= 73"<<endl;
+cout<<"No. of Protons= 32"<<endl;
+cout<<"No. of Electrons= 32"<<endl;
+cout<<"No. of Neutrons= 13"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Metals (Transition metals)"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block D"<<endl;
+break:
+case 33:
+cout<<"The element is= ARSENIC"<<endl;
+cout<<"Symbol= As"<<endl;
+cout<<"Atomic Mass= 75"<<endl;
+cout<<"No. of Protons= 33"<<endl;
+cout<<"No. of Electrons= 33"<<endl;
+cout<<"No. of Neutrons= 42"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Metaloids "<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block P"<<endl;
+break:
+case 34:
+cout<<"The element is= SELENIUM"<<endl;
+cout<<"Symbol= Se"<<endl;
+cout<<"Atomic Mass= 79"<<endl;
+cout<<"No. of Protons= 34"<<endl;
+cout<<"No. of Electrons= 34"<<endl;
+cout<<"No. of Neutrons= 45"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Non-metals "<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block P"<<endl;
+break:
+case 35:
+cout<<"The element is= BROMINE"<<endl;
+cout<<"Symbol= Br"<<endl;
+cout<<"Atomic Mass= 80"<<endl;
+cout<<"No. of Protons= 35"<<endl;
+cout<<"No. of Electrons= 35"<<endl;
+cout<<"No. of Neutrons= 45"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Liquid"<<endl;
+cout<<"Classified as Non-metals "<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block P"<<endl;
+break:
+case 36:
+cout<<"The element is= KRYPTON"<<endl;
+cout<<"Symbol= Kr"<<endl;
+cout<<"Atomic Mass= 84"<<endl;
+cout<<"No. of Protons= 36"<<endl;
+cout<<"No. of Electrons= 36"<<endl;
+cout<<"No. of Neutrons= 48"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas"<<endl;
+cout<<"Classified as Non-metals (Noble gas)"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block P"<<endl;
+break:
+case 37:
+cout<<"The element is= RUBIDIUM"<<endl;
+cout<<"Symbol= Rb"<<endl;
+cout<<"Atomic Mass= 85"<<endl;
+cout<<"No. of Protons= 37"<<endl;
+cout<<"No. of Electrons= 37"<<endl;
+cout<<"No. of Neutrons= 48"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Metals (Alkali metals)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block S"<<endl;
+break:
+case 38:
+cout<<"The element is= STRONTIUM"<<endl;
+cout<<"Symbol= Sr"<<endl;
+cout<<"Atomic Mass= 88"<<endl;
+cout<<"No. of Protons= 38"<<endl;
+cout<<"No. of Electrons= 38"<<endl;
+cout<<"No. of Neutrons= 50"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Metals (Alkali earth metals)"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block S"<<endl;
+break:
+case 39:
+cout<<"The element is= YTTRIUM"<<endl;
+cout<<"Symbol= Y"<<endl;
+cout<<"Atomic Mass= 89"<<endl;
+cout<<"No. of Protons= 39"<<endl;
+cout<<"No. of Electrons= 39"<<endl;
+cout<<"No. of Neutrons= 50"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Metals (Transition metals)"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block D"<<endl;
+break:
+case 40:
+cout<<"The element is= ZIRCONIUM"<<endl;
+cout<<"Symbol= Zr"<<endl;
+cout<<"Atomic Mass= 91"<<endl;
+cout<<"No. of Protons= 40"<<endl;
+cout<<"No. of Electrons= 40"<<endl;
+cout<<"No. of Neutrons= 51"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Solid"<<endl;
+cout<<"Classified as Metals (Transition metals)"<<endl;
+cout<<"Man made= No"<<endl;
+cout<<Radio active= No"<<endl;
+cout<<"Placed in Block D"<<endl;
+break:
+case 41:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 42:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 43:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 44:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 45:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:case 46:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 47:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 48:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 49:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 50:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 51:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 52:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 53:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 54:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 55:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 56:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 57:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 60:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/F/P"<<endl;
+cout<<"It is in Lanthanide series"<<endl;
+break:
+case 61:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/F/P"<<endl;
+cout<<"It is in Lanthanide series"<<endl;
+break:
+case 62:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/F/P"<<endl;
+cout<<"It is in Lanthanide series"<<endl;
+break:
+case 63:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/F/P"<<endl;
+cout<<"It is in Lanthanide series"<<endl;
+break:
+case 64:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/F/P"<<endl;
+cout<<"It is in Lanthanide series"<<endl;
+break:
+case 65:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/F/P"<<endl;
+cout<<"It is in Lanthanide series"<<endl;
+break:
+case 66:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/F/P"<<endl;
+cout<<"It is in Lanthanide series"<<endl;
+break:
+case 67:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/F/P"<<endl;
+cout<<"It is in Lanthanide series"<<endl;
+break:
+case 68:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/F/P"<<endl;
+cout<<"It is in Lanthanide series"<<endl;
+break:
+case 69:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/F/P"<<endl;
+cout<<"It is in Lanthanide series"<<endl;
+break:
+case 70:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/F/P"<<endl;
+cout<<"It is in Lanthanide series"<<endl;
+break:
+case 71:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/F/P"<<endl;
+cout<<"It is in Lanthanide series"<<endl;
+break:
+case 72:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/F/P"<<endl;
+cout<<"It is in Lanthanide series"<<endl;
+break:
+case 73:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/F/P"<<endl;
+cout<<"It is in Lanthanide series"<<endl;
+break:
+case 74:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 75:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 76:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 77:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 78:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 79:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 80:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 81:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 82:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 83:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 84:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 85:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 86:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 87:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 88:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 89:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case 90:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+cout<<"It is in Actinide series"<<endl;
+break:
+case 91:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+cout<<"It is in Actinide series"<<endl;
+break:
+case 92:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+cout<<"It is in Actinide series"<<endl;
+break:
+case 93:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+cout<<"It is in Actinide series"<<endl;
+break:
+case 94:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+cout<<"It is in Actinide series"<<endl;
+break:
+case 95:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+cout<<"It is in Actinide series"<<endl;
+break:
+case 96:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+cout<<"It is in Actinide series"<<endl;
+break:
+case 97:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+cout<<"It is in Actinide series"<<endl;
+break:
+case 98:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+cout<<"It is in Actinide series"<<endl;
+break:
+case 100:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+cout<<"It is in Actinide series"<<endl;
+break:
+case 101:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+cout<<"It is in Actinide series"<<endl;
+break:
+case 102:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+cout<<"It is in Actinide series"<<endl;
+break:
+case 103:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+cout<<"It is in Actinide series"<<endl;
+break:
+case XX:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case XX:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case XX:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case XX:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case XX:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case XX:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case XX:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case XX:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case XX:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case XX:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case XX:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case XX:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case XX:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case XX:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case XX:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case XX:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case XX:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case XX:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case XX:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+case XX:
+cout<<"The element is= element"<<endl;
+cout<<"Symbol= X"<<endl;
+cout<<"Atomic Mass= XX"<<endl;
+cout<<"No. of Protons= XX"<<endl;
+cout<<"No. of Electrons= XX"<<endl;
+cout<<"No. of Neutrons= XX"<<endl;
+cout<<"Valency= XX"<<endl;
+cout<<"Physical state in Room Temperature= Gas/Liquid/Solid"<<endl;
+cout<<"Classified as Metals/Non-metals/Metalloids (Alkali metals/Alkali earth metals/Transition metals/Poor metals/Rare earth metals/Noble gas)"<<endl;
+cout<<"Man made= No/Yes"<<endl;
+cout<<Radio active= No/Yes"<<endl;
+cout<<"Placed in Block S/D/P/F"<<endl;
+break:
+default:
+cout<<"Your choie is wrong."<<endl;
+cout<<"Try again?? Yes(Y/y) or No(N/n)??"<<endl;
+cin b>>;
+if(b=='y'||b=='Y')
+goto start;
+else
+cout<<"Thank you! Periodic Table terminating..."<<endl;
+}
+getch();
+}
